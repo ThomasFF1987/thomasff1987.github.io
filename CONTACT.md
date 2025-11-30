@@ -1,6 +1,6 @@
 layout: page
 title: "CONTACT"
-permalink: /about/contact/
+permalink: /contact/
 
 # Contactez moi directment via message privé sur Linkedin.
 
