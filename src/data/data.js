@@ -2,7 +2,7 @@ export const projects = [
   {
     id: 1,
     image:
-      "https://cdn-developer-wp.arc.dev/wp-content/uploads/2022/06/coding-programming-project-ideas-1128x635.jpg",
+      "",
     title: "Developpement d'une application web avec Laravel et React Js",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, cumque sequi eos suscipit repellendus in quia odit, et itaque amet magni assumenda earum ullam ipsam doloribus recusandae. Voluptatibus, vitae ducimus! Laboriosam, iste! Officia quam, facere similique, libero provident vitae unde ratione commodi possimus ab minus nemo? Tempora adipisci aperiam odio aut dolores nemo a iusto quae, illum nulla, error eius! Nisi voluptatem eaque officia obcaecati reprehenderit, nesciunt qui consequatur sint voluptas dignissimos sequi magni voluptates dicta similique quas amet praesentium ipsam maiores illum fugiat, laboriosam dolore aliquam deleniti. Quod, et?",
